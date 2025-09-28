@@ -37,7 +37,7 @@
 ```bash
 # clone repo and enter it
 git clone https://github.com/mad1fyJourn3y/wifiscanmad1fy.git
-cd wifiscan
+cd wifiscanmad1fy
 
 # install system deps
 sudo apt update
