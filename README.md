@@ -36,7 +36,7 @@
 
 ```bash
 # clone repo and enter it
-git clone https://github.com/mad1fyJourn3y/wifiscan.git
+git clone https://github.com/mad1fyJourn3y/wifiscanmad1fy.git
 cd wifiscan
 
 # install system deps
