@@ -1,5 +1,9 @@
 #    wifiscanmad1fy — `wifiscan`
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
+   
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![Nmap](https://img.shields.io/badge/nmap-required-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
