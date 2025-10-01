@@ -18,7 +18,8 @@
 - Save results to JSON/CSV, or POST results to a webhook.
 - CLI flags for non-interactive automation.
 - Pass extra `nmap` args to vuln scans.
-
+`note:when running without admin / sudo privlages,the scan will show u every device on network.
+[if u have a fix for it send a pull request to be featured on our readme]`
 ---
 
 ## ⚙️ Requirements
